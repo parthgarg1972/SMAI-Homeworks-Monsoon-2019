@@ -91,6 +91,6 @@ plt.scatter(yb,zb,c = 'green', marker = 'o')
 plt.subplot(3,1,3)
 plt.title('Z-X Plane')
 plt.scatter(za,xa,c = 'orange', marker = 'x')
-plt.scatter(zb,xb,c = 'green', marker = 'o')
+plt.scatter(zb,xb,c = 'red', marker = 'o')
 plt.show()
 
